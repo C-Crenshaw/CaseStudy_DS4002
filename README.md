@@ -1,5 +1,4 @@
-# Reconceptualizing the Measure of International Progress: 
-# Uitizing National Happiness Scores to Assess Quality of Life
+# Reconceptualizing the Measure of International Progress: Uitizing National Happiness Scores to Assess Quality of Life
 Carson Crenshaw <br />
 _Adapted from Group 10's Third Project Cycle_ <br />
 DS 4002 <br />
