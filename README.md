@@ -4,6 +4,8 @@ _Adapted from Group 10's Third Project Cycle_ <br />
 DS 4002 <br />
 Last Updated: 12/11/2023
 
+![Happiness Image](http://url/to/img.png)
+
 ## Description
 Case Study deliverable submitted as the final project for DS 4002. Authored by Carson Crenshaw. 
 
