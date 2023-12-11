@@ -18,7 +18,7 @@ This section contains all of the supplemental documents necessary to complete th
 | 	Document Title	 | 	Description	 | 
 | 	:-----:	 | 	:-----:	 |
 | 	[Hook Document](https://github.com/C-Crenshaw/CaseStudy_DS4002/blob/720e76bc67174c528792d58f29355dc2f81b17c0/Hook%20Document.pdf)	| Document that provides the project scenario and establishes the topic/context/motivation for the case study.	| 
-| 	Rubric	| Explains the purpose, task, and criteria of the project. |
+| 	[Rubric](https://github.com/C-Crenshaw/CaseStudy_DS4002/blob/b25ae97b6bdf726ed9a7f1c8dee320eed16108f1/Case%20Study%20Rubric.pdf)	| Explains the purpose, task, and criteria of the project. |
 | 	[Supplemental Materials](https://github.com/C-Crenshaw/CaseStudy_DS4002/tree/0c9143dbfc509f4925b87733af91ed64fdadd62b/OTHER%20MATERIALS)	| Includes other materials necessary for a student to engage with the case study.	|
 
 ## Acknowledgments
