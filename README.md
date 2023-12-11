@@ -19,7 +19,7 @@ This section contains all of the supplemental documents necessary to complete th
 | 	:-----:	 | 	:-----:	 |
 | 	Hook Document	| Document that provides the project scenario and establishes the topic/context/motivation for the case study.	| 
 | 	Rubric	| Explains the purpose, task, and criteria of the project. |
-| 	Supplemental Materials	| Includes other materials necessary for a student to engage with the case study.	|
+| 	[Supplemental Materials](https://github.com/C-Crenshaw/CaseStudy_DS4002/tree/0c9143dbfc509f4925b87733af91ed64fdadd62b/OTHER%20MATERIALS)	| Includes other materials necessary for a student to engage with the case study.	|
 
 ## Acknowledgments
 This README structure is adopted from [@DomPizzie](https://gist.github.com/DomPizzie) on Github. 
